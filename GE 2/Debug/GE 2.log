@@ -1,0 +1,17 @@
+﻿  Source.cpp
+d:\vs project\ge 2\ge 2\source.cpp(23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(45): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(52): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(54): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(108): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(109): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(168): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+d:\vs project\ge 2\ge 2\source.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+d:\vs project\ge 2\ge 2\source.cpp(183): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+sfml-graphics-s.lib(RenderStates.cpp.obj) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "X86"
